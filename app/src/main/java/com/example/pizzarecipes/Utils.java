@@ -43,7 +43,7 @@ public class Utils {
 
     public static final String PIZZA_4_TITLE = "Быстрая пицца с колбасой и сыром";
     public static final String PIZZA_4_DESCRIPTION = "Если хотите приготовить вкусную сытную пиццу, не потратив много времени и сил, то воспользуйтесь этим рецептом. Вы будете в восторге от простого и быстрого рецепта. Это тот случай, когда и быстро, и вкусно.";
-    public static final String PIZZA_4_RECIPE = "да (тёплая) – 185 мл" +
+    public static final String PIZZA_4_RECIPE = "Вода (тёплая) – 185 мл" +
             "\n" +
             "Мука в/с – 275 г" +
             "\n" +

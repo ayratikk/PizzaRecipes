@@ -13,10 +13,12 @@ public class PizzaRecipeItem {
     }
 
     public int getImageResource() {
+
         return imageResource;
     }
 
     public String getTitle() {
+
         return title;
     }
 
@@ -25,6 +27,7 @@ public class PizzaRecipeItem {
     }
 
     public String getDescription() {
+
         return description;
     }
 
